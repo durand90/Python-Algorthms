@@ -39,6 +39,7 @@ for char in s:
 
 
 print 
+print
 
 
 Print("Hello world")

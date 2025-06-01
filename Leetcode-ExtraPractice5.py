@@ -41,6 +41,7 @@ for char in s:
 print 
 print
 print
+print
 
 
 Print("Hello world")
